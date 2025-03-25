@@ -1,0 +1,19 @@
+------------------------------------------------------------------------------------------
+--------------------------------- Copyrights, Usage & Licensing --------------------------
+------------------------------------------------------------------------------------------
+(c)2025  CalleEcology Inc. All rights reserved. 
+
+This repository contains educational materials, including agendas, lectures, task descriptions, and scripts, developed for the program/course "How to Think Like a Programmer: AI & Code Generation for Data Science". These materials are intended for educational use only.
+
+Usage Permissions:
+
+- You may view, use, and reference these materials for personal or educational purposes.
+
+- Redistribution, modification, or commercial use of these materials without explicit written permission is prohibited.
+
+
+For inquiries about licensing or permissions, please contact:
+
+CalleEcology
+email:  leonardo.meiji@gmail.com
+email subject-line: "calleEcology, course licensing inquiry"

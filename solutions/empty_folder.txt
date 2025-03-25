@@ -1,0 +1,2 @@
+# This folder is purposefully Empty at the Start of the Course. 
+#  ADD your scripts and remove this file for clarity.
